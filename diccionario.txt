@@ -1,0 +1,10 @@
+hola
+mundo
+computadora
+programacion
+corrector
+levenshtein
+diccionario
+algoritmo
+prueba
+texto
